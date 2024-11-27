@@ -139,3 +139,9 @@ python agri_llava/eval/run_eval.py \
     --gt /path/to/agri_llava_vqa_test_answer.json \
     --pred /path/to/agri_llava_vqa_answer_our.jsonl
 ```
+
+## Acknowledgement
+
+We sincerely appreciate [LLaVA](https://github.com/haotian-liu/LLaVA) for making their models and code available as open-source contributions.
+
+
