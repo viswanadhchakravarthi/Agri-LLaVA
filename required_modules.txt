@@ -1,0 +1,47 @@
+
+abc
+agri_llava
+argparse
+ast
+base64
+collections
+copy
+dataclasses
+datetime
+deepspeed
+huggingface_hub
+io
+json
+logging
+math
+numpy
+os
+packaging
+pathlib
+PIL
+random
+re
+requests
+shutil
+sys
+time
+tokenizers
+torch
+tqdm
+transformers
+warnings
+
+============
+bitsandbytes => done
+nltk => done
+pandas => done
+peft => done
+
+s2wrapper => done
+shortuuid => done
+tabulate => done
+xformers => done
+
+flash_attn => install ( failed earlier due to some issue with CUDA compactibility )
+llava => install
+openai => no use( need access )

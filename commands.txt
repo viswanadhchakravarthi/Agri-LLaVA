@@ -1,0 +1,7 @@
+python -m agri_llava.eval.run_eval \
+  --model-path liuhaotian/llava-v1.5-7b \
+  --image-file ./assets/Agri_LLaVA_logo.png \
+  --query "What is in the image?"
+
+
+=> pid : 590026
